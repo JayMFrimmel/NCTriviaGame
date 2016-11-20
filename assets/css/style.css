@@ -1,0 +1,57 @@
+body {
+	width: 100%;
+	background-image: url();
+	background-image: 
+	background-color: blue;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 100%;
+}
+
+header {
+	font-size: 2.5em;
+	font-weight: bold;
+	font-color: black;
+	text-align: center;
+	background-color: red;
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+div.gamerules {
+	width: 90%;
+	margin: 0 auto 0 auto;
+	font-size: 2.0em;
+	text-align: center;
+	background-color: yellow;
+}
+
+div.startandstop  {
+	width: 90%;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+	
+div.questions {
+	width: 90%;
+	margin: 0 auto 0 auto;
+	font-size: 2.0em;
+	text-align: center;
+	background-color: orange;
+
+}
+
+article {
+	width: 90%;
+	margin: 0 auto 0 auto;
+	font-size: 2.0em;
+	text-align: center;
+	background-color: light-green;
+}
+
+div.answer {
+	width: 90%;
+	margin: 0 auto 0 auto;
+	font-size: 2.0em;
+	text-align: center;
+	background-color: pink;
+}
